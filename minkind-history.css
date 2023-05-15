@@ -1,0 +1,130 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.title1{
+    color: blue;
+    float: left;
+    font-size: 40px;
+    background: wheat;
+    border-radius:100%;
+}
+ul{
+    float: right;
+    list-style: none;
+}
+li{
+    float: left;
+    padding: 20px;
+    font-size: 20px;
+    color: rgb(1, 49, 91);
+}
+nav{
+    height: 65px;
+    background-color: rgb(255, 167, 3);
+}
+a{
+    text-decoration: none;
+}
+.butn1{
+    background: red;
+    border-radius: 60%;
+color: aliceblue;
+padding: 8px;
+}
+.content{
+    height: 725px;
+    background-image: url("tbiba3.jpeg");
+    text-align: center;
+}
+.c1{
+    padding: 120px;
+
+}
+.tContent{
+    color: rgb(252, 141, 6);
+    font-size: 50px;
+}
+.p1{
+    margin-top: 40px;
+    color: rgb(100, 31, 4);
+    font-size: 20px;
+}
+.butn1{
+    margin-top: 30px;
+}
+/* section 2 */
+body{
+    background: beige;
+}
+.t2{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+    margin: 25px;
+}
+.paragraph2{
+    width: 60%;
+    float: left;
+    padding: 20px;
+}
+.image2{
+    width: 40%;
+    float: right;
+    padding: 15px;
+}
+#img3{
+    height: 550px;
+    width: 550PX;
+}
+.butn2{
+    background: red;
+    border-radius: 60%;
+color: aliceblue;
+padding: 12px;
+margin-left: 500px;
+}
+/* section 3 */
+.t3{
+    text-align: center;
+    color: blue;
+}
+.d{
+    padding: 40px;
+    width: 27%;
+    height: 200px;
+    float: left;
+    background-color: burlywood;
+}
+h2{
+    text-align: center;
+    margin-bottom: 12px;
+
+}
+.d:hover{
+    background-color: white;
+}
+.t4{
+    text-align: center;
+    color: blue;
+}
+.butn3{
+    background: red;
+    border-radius: 60%;
+color: aliceblue;
+padding: 12px;
+margin-left: 150px;
+
+}
+.d2{
+    width: 50%;
+    float: left;
+    padding: 12px;
+}
+
+footer{
+    background-color:  rgb(255, 167, 3);
+    color: blue;
+    height: 50px;
+    text-align: center;
+}
